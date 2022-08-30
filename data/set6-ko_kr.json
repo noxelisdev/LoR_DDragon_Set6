@@ -2,14 +2,1231 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "06NX024T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX024-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 2,
+    "cost": 6,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>사용</style></link>: 적 하나에게 피해를 2 입힙니다.\r\n내 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문과 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>에 \"<link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>했거나 피해를 입은 적에게 피해를 입히면 처치합니다.\" 효과가 추가됩니다.",
+    "descriptionRaw": "사용: 적 하나에게 피해를 2 입힙니다.\r\n내 신속 주문과 집중 주문, 스킬에 \"기절했거나 피해를 입은 적에게 피해를 입히면 처치합니다.\" 효과가 추가됩니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''제2막: 겉과 속이 다른 그 귀족은 가진 건 없지만,<br>몰래 빼돌린 카슈리 건틀릿으로 아이오니아인들의<br>환심을 산다. 하지만 귀족의 가면은 허술해서 간파하기 쉽다.<br>귀족은 아무것도 몰랐다며 목숨을 구걸한다.<br>철권통치의 계획은 이제 무용지물이다.''",
+    "artistName": "Kudos Productions ",
+    "name": "브로드메인 경",
+    "cardCode": "06NX024",
+    "keywords": [
+      "Missing Translation"
+    ],
+    "keywordRefs": [
+      "AuraVisualFakeKeyword"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX033-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "적 둘을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시키거나 6마나를 사용해 <link=card.summon><style=AssociatedCard>군단장</style></link> 하나를 소환합니다. <style=Variable></style>",
+    "descriptionRaw": "적 둘을 기절시키거나 6마나를 사용해 군단장 하나를 소환합니다. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "모든 전투에서는 반드시 임무 할당이라는<br>중요한 과정이 선행되어야 합니다. 뛰어난 지휘관은<br>승리하기 위해 무엇이 필요한지 잘 알죠. 그것은 바로...",
+    "artistName": "Kudos Productions",
+    "name": "전략 실행",
+    "cardCode": "06NX033",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX033T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX033T2-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "<link=card.summon><style=AssociatedCard>군단장</style></link> 하나를 소환합니다. <style=Variable></style> ",
+    "descriptionRaw": "군단장 하나를 소환합니다.  ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "...강력한 공격입니다.",
+    "artistName": "Kudos Productions",
+    "name": "전략 실행",
+    "cardCode": "06NX033T2",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX033T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX033T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "적 둘을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
+    "descriptionRaw": "적 둘을 기절시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "...튼튼한 방어입니다.",
+    "artistName": "Kudos Productions",
+    "name": "전략 실행",
+    "cardCode": "06NX033T1",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX012T6",
+      "06NX012T3",
+      "06NX012T7",
+      "06NX012T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.\r\n",
+    "descriptionRaw": "공격: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.\r\n",
+    "levelupDescription": "소환된 상태에서 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문이나 <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 6번 이상 사용해야 합니다. <style=Variable></style> 레벨 업하면<br>손에 <link=card.create><style=AssociatedCard>티버</style></link> 1장을 생성합니다.",
+    "levelupDescriptionRaw": "소환된 상태에서 신속 또는 집중 주문이나 스킬을 6번 이상 사용해야 합니다.  레벨 업하면손에 티버 1장을 생성합니다.",
+    "flavorText": "약 10년 전, 아몰린 키오사는 귀중하면서도 강력한 자산을<br>손에 넣은 채 레이븐블룸 예술학교를 떠났습니다.<br>레이븐블룸의 정찰병들은 제국을 샅샅이 수색했지만,<br>아몰린을 찾을 수 없었습니다. 그리고 몇 년 후,<br>강철가시 산맥 북부에서 분노로 불타는 소녀에 관한<br>소식이 들렸을 때, 핀 레트릭은 어쩔 수 없이<br>준비를 갖추고 조사를 위해 그곳으로 떠났죠.<br>이번에도 아무런 성과가 없을 줄 알았지만,<br>그것은 핀의 착각이었습니다.",
+    "artistName": "Polar Engine",
+    "name": "애니",
+    "cardCode": "06NX012",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX012T7",
+      "06NX012"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T3-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "유닛 하나를 선택합니다. 이 라운드에 <nobr>해당 유닛이</nobr> 1 이상의 피해를 입으면 처치합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>애니</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "유닛 하나를 선택합니다. 이 라운드에 해당 유닛이 1 이상의 피해를 입으면 처치합니다.\r\n내 덱에 애니 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "텔시 교장이 녹서스의 이념에 관해 장황하게 설명하자<br>아이들은 지루해하며 가만히 있지 못했습니다. 학생들<br>대부분은 불만을 속으로 삭였지만, 애니는 행동했습니다.<br>처음에는 연기로, 그리고 곧이어 불로 말이죠.",
+    "artistName": "Kudos Productions",
+    "name": "애니의 뜨거운 붕괴",
+    "cardCode": "06NX012T3",
+    "keywords": [
+      "신속"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "신속",
+    "spellSpeedRef": "Fast",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX012"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T6-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=card.parentRef><style=AssociatedCard>애니</style></link>를 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.",
+    "descriptionRaw": "애니를 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''너도 같이 놀래?''\n- 애니",
+    "artistName": "Kudos Productions",
+    "name": "용암 방패",
+    "cardCode": "06NX012T6",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX012T3",
+      "06NX012T1",
+      "06NX012T8",
+      "06NX012"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T7-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 1,
+    "cost": 1,
+    "health": 3,
+    "description": "<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 3 입히고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.<br>방어 유닛이 사망하거나 사라지면 대신<br>적 넥서스에 피해를 3 입힙니다.",
+    "descriptionRaw": "공격: 이 유닛을 방어하는 유닛에게 피해를 3 입히고 기절시킵니다.방어 유닛이 사망하거나 사라지면 대신적 넥서스에 피해를 3 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''그 꼬마를 찾았어. 아몰린의 딸이 확실해.<br>눈과 웃음소리가 똑 닮았더군. 보름 안에 데리고 갈게.<br>얘기를 나눠 봤는데, 다정하게 대해 주길 바라.<br>착한 마음을 지닌 아이야. 물론 어둠도 있지만.''\n- 핀 레트릭의 편지에서 발췌",
+    "artistName": "Polar Engine",
+    "name": "애니",
+    "cardCode": "06NX012T7",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T5-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시키고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
+    "descriptionRaw": "적 하나를 기절시키고 기절했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''티버!''\n- 애니",
+    "artistName": "Kudos Productions",
+    "name": "화산 강습",
+    "cardCode": "06NX012T5",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX012T5",
+      "06NX012T7"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>사용</style></link>: 적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시키고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
+    "descriptionRaw": "사용: 적 하나를 기절시키고 기절했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "악마 티벌크는 수백 년 동안 수많은 이들의 정신을 악에 물들였습니다. 그들을 천천히 그리고 냉혹하게 불로 이끈 다음 자신의 불꽃이 그들을 집어삼키는 모습을 지켜봤죠. 하지만 어린 애니에게는 불굴의 의지, 그리고 자신과 비견할 만한 마법의 재능이 있었습니다.",
+    "artistName": "Polar Engine",
+    "name": "티버",
+    "cardCode": "06NX012T1",
+    "keywords": [
+      "공포"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX012T7"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX012T8-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=card.parentRef><style=AssociatedCard>애니</style></link>를 방어하는 유닛에게 피해를 3 입히고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
+    "descriptionRaw": "애니를 방어하는 유닛에게 피해를 3 입히고 기절시킵니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''재미있겠다...''\n- 애니",
+    "artistName": "Kudos Productions",
+    "name": "용암 방패",
+    "cardCode": "06NX012T8",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX029-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "공격력이 5 이상인 아군이 사망하면 손에 공격력이 5 이상인 무작위 추종자를 생성합니다.",
+    "descriptionRaw": "공격력이 5 이상인 아군이 사망하면 손에 공격력이 5 이상인 무작위 추종자를 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''오늘 펜로즈 힐에 있던 내 예전 병원 생각이 났다.<br>생리학의 비밀을 풀기 위해 노력했던 그 세월도!<br>레이디 노라디 밑에서 일한 지 몇 달이 지난 지금,<br>난 아무것도 배운 게 없다는 사실을 깨달았다.<br>예전의 나는 참 소박했다. 운도 따랐지.''\n- 에슬랭거 박사의 기록",
+    "artistName": "Envar Studio",
+    "name": "음침한 약제사",
+    "cardCode": "06NX029",
+    "keywords": [
+      "명소"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "명소",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX032-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 4,
+    "cost": 2,
+    "health": 1,
+    "description": "아군이 공격하면 함께 공격합니다.",
+    "descriptionRaw": "아군이 공격하면 함께 공격합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''용 사냥개를 보고 있자면 참 즐거워, 안 그래?<br>늘 주인을 기쁘게 하려고 애쓰고, 말도 잘 듣거든.<br>적들도 이 녀석들처럼 쓸 만하다면 얼마나 좋을까?''\n- 장미의 가시",
+    "artistName": "Michael Ivan",
+    "name": "순종적인 용 사냥개",
+    "cardCode": "06NX032",
+    "keywords": [
+      "행동불가",
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "Immobile",
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX030-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 5,
+    "cost": 5,
+    "health": 4,
+    "description": "아군에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 부여되는<br>이로운 효과를 모두 얻습니다.\r\n",
+    "descriptionRaw": "아군에게 어디에 있든 부여되는이로운 효과를 모두 얻습니다.\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''제1막: 군에서 복무하다 고대 카슈리 유물을 훔쳐 탈영한<br>남자는 카이안비의 술집에 숨는다. 술집은 오만한 자들과<br>취기로 가득하다. 하지만 남자는 알지 못한다. 자신이<br>훔친 보물이 주인에게 모든 걸 알려 주고 있다는 사실을!<br>마치 포도주처럼 남자의 목숨이 흘러내린다.<br>녹서스인의 피가 아이오니아의 보물을 붉게 물들인다.'' ",
+    "artistName": "Kudos Productions",
+    "name": "군단 탈영병",
+    "cardCode": "06NX030",
+    "keywords": [
+      "공포"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX013-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>사용</style></link>: 적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다. 이미 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>한 상태라면 대신<br>피해를 2 입힙니다.",
+    "descriptionRaw": "사용: 적 하나를 기절시킵니다. 이미 기절한 상태라면 대신피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''학생: 사이델 키테라\n교사: J. 윌러\n사유: 거미가 제 왼쪽 팔뚝을 물었습니다. 사이델은<br>억울하다고 하지만, 히죽거리는 걸 보니 거짓말이 분명합니다.<br>식당 봉사 2주의 추가 징계를 내렸습니다.''\n- 레이븐블룸 징계 사유서",
+    "artistName": "Polar Engine",
+    "name": "주문술사",
+    "cardCode": "06NX013",
+    "keywords": [
+      "공포"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [
+      "거미"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX040-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "라운드마다 처음으로 공격력이 <nobr>5 이상인</nobr> 아군이 공격하면 <link=vocab.Rally><style=Vocab>결집</style></link>합니다.",
+    "descriptionRaw": "라운드마다 처음으로 공격력이 5 이상인 아군이 공격하면 결집합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"내 명령에 따라 전투를 시작해라! 상대를 죽였다면<br>다른 상대를 찾아라! 쓰러졌다면 네 죽음이 녹서스를<br>더 강하게 만들었음을 깨닫고 쓰러져라!<br>트리파르 병사들이여... 시작하라!\"\n- 트리파르 심사관",
+    "artistName": "Kudos Productions",
+    "name": "트리파르 훈련장",
+    "cardCode": "06NX040",
+    "keywords": [
+      "명소"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "명소",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX028T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX028-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.Countdown><style=Vocab>초읽기 12</style></link>: 손에 <link=card.create><style=AssociatedCard>티벌크</style></link> 1장을 생성합니다.\r\n이 게임에서 사용한 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link> 하나당 1라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>합니다. <style=Variable></style>",
+    "descriptionRaw": "초읽기 12: 손에 티벌크 1장을 생성합니다.\r\n이 게임에서 사용한 신속 또는 집중 주문, 스킬 하나당 1라운드만큼 진행합니다. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''...지금쯤이면 로즈가드 아카데미의 비참한 상황에 대한 소식을 들었겠지요. 자매 학교를 보고 느끼는 게 있기를 바랍니다. 제국에 보탬이 될 수 있도록 학교를 잘 관리하도록 하십시오.''\n- 학교 잔해에서 발견된 그을린 편지",
+    "artistName": "Will Gist",
+    "name": "레이븐블룸 예술학교",
+    "cardCode": "06NX028",
+    "keywords": [
+      "명소",
+      "초읽기"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly",
+      "Countdown"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "명소",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX028"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX028T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 6,
+    "cost": 6,
+    "health": 6,
+    "description": "소환 시 모든 아군에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> +1|+0을 부여하고 게임 종료까지 모든 주문과 <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>이 추가로 피해를 1 입힙니다.",
+    "descriptionRaw": "소환 시 모든 아군에게 어디에 있든 +1|+0을 부여하고 게임 종료까지 모든 주문과 스킬이 추가로 피해를 1 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''...그 어두운 존재는 내 안에서 불타며 속삭인다. 불, 불이라고.<br>불꽃 속에서 그것의 검은 눈이 보인다.<br>깜빡이지 않는 눈으로 날 노려보며 웃는다.<br>그리고 내게 다른 이들과 함께하라고 유혹한다.<br>지옥불 속의 형체들이 내게 손짓한다. 집으로 돌아오라고.''\n- 노쇠한 녹머치인이 남긴 일지의 일부",
+    "artistName": "Will Gist",
+    "name": "티벌크",
+    "cardCode": "06NX028T1",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX014-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "유닛 하나를 선택합니다. 이 라운드에 해당 유닛이 1 이상의 피해를 입으면 처치합니다.",
+    "descriptionRaw": "유닛 하나를 선택합니다. 이 라운드에 해당 유닛이 1 이상의 피해를 입으면 처치합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "텔시 교장이 녹서스의 이념에 관해 장황하게 설명하자 아이들은 지루해하며 가만히 있지 못했습니다. 학생들 대부분은 불만을 속으로 삭였지만, 애니는 행동했습니다. 처음에는 연기로, 그리고 곧이어 불로 말이죠.",
+    "artistName": "Kudos Productions",
+    "name": "뜨거운 붕괴",
+    "cardCode": "06NX014",
+    "keywords": [
+      "신속"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "신속",
+    "spellSpeedRef": "Fast",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX031-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=vocab.Reputation><style=Vocab>명성</style></link>: 비용이 3이 됩니다. <style=Variable></style>",
+    "descriptionRaw": "명성: 비용이 3이 됩니다. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "사슬에 묶인 두 설인이 보르덴트의 전설적인 투기장으로 들어오자 군중은 숨을 죽였습니다. 누구도 전에 설인의 힘을<br>본 적이 없었기에 설인들이 사슬을 끊을 정도로<br>강력하다 생각하지 않았습니다.",
+    "artistName": "Kudos Productions",
+    "name": "사로잡힌 설인",
+    "cardCode": "06NX031",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [
+      "설인"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX009T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX009-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
+    "descriptionRaw": "공격: 이 유닛을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''제3막: 잔혹한 주인과 그녀의 애완동물. 잿빛등은 끔찍한 일에 동원되지만, 그 자체는 무고하다. 녀석이 몸에 지닌 유물이 복종을 강요하기 때문이다. 주인은 애완동물에게 잡아먹히지만, 비명을 지르지 않는다. 다른 녹서스인의 최후도 이토록 숭고하다면 어땠을까?''",
+    "artistName": "Michael Ivan",
+    "name": "사로잡힌 잿빛등",
+    "cardCode": "06NX009",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX009"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX009T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=card.parentRef><style=AssociatedCard>사로잡힌 잿빛등</style></link>을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
+    "descriptionRaw": "사로잡힌 잿빛등을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''교훈으로 새겨 둬. 정복자는 첫 반란이 일어나기 전까지만 목숨을 부지할 수 있지.''\n- 진",
+    "artistName": "Kudos Productions",
+    "name": "명령 수행",
+    "cardCode": "06NX009T1",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX015T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX015-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "라운드마다 처음으로 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 사용하면<br><link=card.skill><style=AssociatedCard>마법 불꽃</style></link>을 사용합니다.",
+    "descriptionRaw": "라운드마다 처음으로 신속 또는 집중 주문, 스킬을 사용하면마법 불꽃을 사용합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''처음 다아니를 만난 게 2년 전이었지. 멋진 사내였어.<br>게다가 참 예쁜 가족을 꾸렸지. 그러다 마지막으로<br>그 마을에 갔을 때, 가엾은 다아니는 마을 광장 중앙에<br>혼자 앉아 있더군. 가족이 돌아오길 기다린다면서.<br>아마 몇 달은 지난 듯했지. 난 차마 말할 수 없었어.<br>내가 오는 길에 뭘 봤는지 말이야...''\n- 핀 레트릭",
+    "artistName": "Polar Engine",
+    "name": "마법 학생",
+    "cardCode": "06NX015",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03NX014",
+      "01NX011",
+      "05NX014",
+      "01NX041"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX037-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "손에 <link=card.create1><style=AssociatedCard>예리한 결의</style></link>, <link=card.create2><style=AssociatedCard>죽음의 소용돌이</style></link>,<br><link=card.create3><style=AssociatedCard>길 잃은 자의 무기</style></link> 중 1장을<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성합니다.",
+    "descriptionRaw": "손에 예리한 결의, 죽음의 소용돌이,길 잃은 자의 무기 중 1장을일회용 상태로 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''클라라, 토큰에 묻은 피를 닦아야지.''\n- 진홍회 귀족 오필리아 노라디",
+    "artistName": "Kudos Productions",
+    "name": "녹서스 텔스톤",
+    "cardCode": "06NX037",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX015T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX015T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "적 넥서스에 피해를 1 입힙니다.",
+    "descriptionRaw": "적 넥서스에 피해를 1 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''우와... 마법이 보여요!''\n- 마법 학생",
+    "artistName": "Kudos Productions",
+    "name": "마법 불꽃",
+    "cardCode": "06NX015T1",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX008-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "내가 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 사용하면 이 유닛이<br>+1|+0을 얻습니다.",
+    "descriptionRaw": "내가 신속 또는 집중 주문, 스킬을 사용하면 이 유닛이+1|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''아이들 대부분은 아직 어려서 권위에 반항하려는<br>성향이 있어요. 하지만 다행히 그중 가장 나이가 많은 아이는<br>학생들 사이에서 인기도 많고 우리 지시도 잘 따르죠.<br>만약 학생들이 우리 가르침을 무시하면,<br>그 아이를 통해서 가르치면 돼요.''\n- 텔시 교장",
+    "artistName": "Polar Engine",
+    "name": "학생 대표",
+    "cardCode": "06NX008",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX013T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.<br>이미 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>한 상태라면 대신<br>피해를 2 입힙니다.",
+    "descriptionRaw": "적 하나를 기절시킵니다.이미 기절한 상태라면 대신피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''이제 독니를 쓸 차례군...''\n- 주문술사",
+    "artistName": "Kudos Productions",
+    "name": "굳은 힘줄",
+    "cardCode": "06NX013T1",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06NX024"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX024T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06NX024T1-full.png"
+      }
+    ],
+    "regions": [
+      "녹서스"
+    ],
+    "regionRefs": [
+      "Noxus"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "적 유닛 하나에게 피해를 2 입힙니다.",
+    "descriptionRaw": "적 유닛 하나에게 피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "뛰어난 도구가 실력 없는 기술자의 손에서 낭비되고 있습니다.",
+    "artistName": "Kudos Productions",
+    "name": "카슈리 건틀릿",
+    "cardCode": "06NX024T1",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "06RU025T14",
       "06RU025T6",
       "06RU025T5"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025-full.png"
       }
     ],
     "regions": [
@@ -48,8 +1265,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T4-full.png"
       }
     ],
     "regions": [
@@ -94,8 +1311,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T7-full.png"
       }
     ],
     "regions": [
@@ -140,8 +1357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T14.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T14-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T14.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T14-full.png"
       }
     ],
     "regions": [
@@ -182,8 +1399,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T5-full.png"
       }
     ],
     "regions": [
@@ -222,8 +1439,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T8-full.png"
       }
     ],
     "regions": [
@@ -268,8 +1485,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T12-full.png"
       }
     ],
     "regions": [
@@ -314,8 +1531,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T10-full.png"
       }
     ],
     "regions": [
@@ -360,8 +1577,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T3-full.png"
       }
     ],
     "regions": [
@@ -406,8 +1623,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T1-full.png"
       }
     ],
     "regions": [
@@ -452,8 +1669,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T9-full.png"
       }
     ],
     "regions": [
@@ -498,8 +1715,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T11.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T11-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T11.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T11-full.png"
       }
     ],
     "regions": [
@@ -544,8 +1761,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T2-full.png"
       }
     ],
     "regions": [
@@ -591,8 +1808,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU025T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU025T6-full.png"
       }
     ],
     "regions": [
@@ -638,8 +1855,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001-full.png"
       }
     ],
     "regions": [
@@ -680,8 +1897,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T8-full.png"
       }
     ],
     "regions": [
@@ -727,8 +1944,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T4-full.png"
       }
     ],
     "regions": [
@@ -768,8 +1985,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T9-full.png"
       }
     ],
     "regions": [
@@ -806,8 +2023,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU001T3-full.png"
       }
     ],
     "regions": [
@@ -856,8 +2073,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002-full.png"
       }
     ],
     "regions": [
@@ -894,8 +2111,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T6-full.png"
       }
     ],
     "regions": [
@@ -945,8 +2162,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T1-full.png"
       }
     ],
     "regions": [
@@ -990,8 +2207,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T5-full.png"
       }
     ],
     "regions": [
@@ -1028,8 +2245,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T12-full.png"
       }
     ],
     "regions": [
@@ -1070,8 +2287,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T13.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T13-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T13.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T13-full.png"
       }
     ],
     "regions": [
@@ -1114,8 +2331,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T4-full.png"
       }
     ],
     "regions": [
@@ -1160,8 +2377,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU002T2-full.png"
       }
     ],
     "regions": [
@@ -1204,8 +2421,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU046-full.png"
       }
     ],
     "regions": [
@@ -1249,8 +2466,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU044-full.png"
       }
     ],
     "regions": [
@@ -1293,8 +2510,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06RU045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06RU045-full.png"
       }
     ],
     "regions": [
@@ -1332,11 +2549,385 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "04FR019T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR029-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "적 하나를 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸리게 합니다.\r\n<link=card.summon><style=AssociatedCard>서리송곳니 무리</style></link> 하나를 소환합니다. 이 게임에서 내가 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸리게 한 적 수만큼 해당 유닛에게 +1|+1을 부여합니다. <style=Variable></style>",
+    "descriptionRaw": "적 하나를 동상에 걸리게 합니다.\r\n서리송곳니 무리 하나를 소환합니다. 이 게임에서 내가 동상에 걸리게 한 적 수만큼 해당 유닛에게 +1|+1을 부여합니다. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "추위와 함께 서리송곳니도 찾아옵니다.<br>서리송곳니는 먹잇감을 앞지를 필요가 없습니다...<br>그저 오래 매복하기만 하면 됩니다.",
+    "artistName": "Kudos Productions",
+    "name": "냉기의 공포",
+    "cardCode": "06FR029",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR033-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 2,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>최후의 숨결</style></link>: 빈 마나 보석을 하나 얻습니다.",
+    "descriptionRaw": "최후의 숨결: 빈 마나 보석을 하나 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "프렐요드에서 삶과 죽음의 순환은<br>다른 곳과 사뭇 다른 모습입니다.<br>이 혹독한 환경에서는 버려지는 게 거의 없죠.",
+    "artistName": "Kudos Productions",
+    "name": "사냥하는 수퇘지",
+    "cardCode": "06FR033",
+    "keywords": [
+      "공격 전용",
+      "최후의 숨결"
+    ],
+    "keywordRefs": [
+      "CantBlock",
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR038-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "모든 유닛에게 피해를 3 입힙니다.\r\n<link=keyword.Enlightened><style=Keyword>각성</style></link>: 아군 넥서스의 체력을<br>3 회복시킵니다.",
+    "descriptionRaw": "모든 유닛에게 피해를 3 입힙니다.\r\n각성: 아군 넥서스의 체력을3 회복시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "거대한 얼음불사조의 날개가 그림자를 드리우자<br>추종자들은 기뻐했고, 적들은 공포에 떨었습니다.",
+    "artistName": "Kudos Productions",
+    "name": "얼음불사조의 날개",
+    "cardCode": "06FR038",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04FR001"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR030-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 하나를 소환하거나<br>모든 <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 카드를<br>1라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>시킵니다.",
+    "descriptionRaw": "사용: 얼음 노예 하나를 소환하거나모든 얼음 노예 카드를1라운드만큼 진행시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "그 생명체는 하늘을 날며 기이하게 울부짖었습니다.<br>휘파람과 비슷한 그 소리는 귀에 겨우 들릴 정도로 희미했지만, 협곡의 돌벽을 흔들었습니다.<br>정찰병들은 마치 뼈가 진동하는 느낌을 받았죠.<br>그때 정찰병들의 눈앞에서 얼음이 갈라지더니<br>빠르게 어긋나기 시작했습니다.",
+    "artistName": "Kudos Productions",
+    "name": "노예의 징조",
+    "cardCode": "06FR030",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01FR026"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR039-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "아군 추종자 하나를 <nobr><link=card.summon><style=AssociatedCard>거친발톱 우두머리</style></link></nobr>로 변신시킵니다.",
+    "descriptionRaw": "아군 추종자 하나를 거친발톱 우두머리로 변신시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"위대한 거친발톱의 영혼이여, 우리에게 힘을 부여하소서!\"\n- 우디르",
+    "artistName": "Kudos Productions",
+    "name": "거친발톱의 야성",
+    "cardCode": "06FR039",
+    "keywords": [
+      "몰입"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR028-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 2,
+    "cost": 6,
+    "health": 2,
+    "description": "소환 시 내 덱에 있는 유닛들에게<br>이 카드의 능력치를 부여한 뒤,<br>공격력이 5 이상인 유닛을<br>하나 뽑습니다.",
+    "descriptionRaw": "소환 시 내 덱에 있는 유닛들에게이 카드의 능력치를 부여한 뒤,공격력이 5 이상인 유닛을하나 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "아바로사 부족에서는 주로 경험이 많은 어른들이 설화 지킴이를 맡습니다. 뛰어난 이야기꾼인 그들은 부족민들을 보호하고, 이야기와 노래를 통해 사냥과 전투의 전통을 이어 가죠. ",
+    "artistName": "Envar Studio",
+    "name": "설화 지킴이 레브나",
+    "cardCode": "06FR028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04FR001"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR030T2-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 하나를 소환합니다.",
+    "descriptionRaw": "사용: 얼음 노예 하나를 소환합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "동이 트면서 얼음이 녹자\n얼음 마녀의 하수인들이 깨어납니다.",
+    "artistName": "Kudos Productions",
+    "name": "노예의 징조",
+    "cardCode": "06FR030T2",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04FR001"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR030T1-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 모든 <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 카드를<br>1라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>시킵니다.",
+    "descriptionRaw": "사용: 모든 얼음 노예 카드를1라운드만큼 진행시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "동이 트면서 얼음이 녹자\n얼음 마녀의 하수인들이 깨어납니다.",
+    "artistName": "Kudos Productions",
+    "name": "노예의 징조",
+    "cardCode": "06FR030T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06FR037-full.png"
+      }
+    ],
+    "regions": [
+      "프렐요드"
+    ],
+    "regionRefs": [
+      "Freljord"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "적 하나에게 \"다음 <link=vocab.RoundStart><style=Vocab>라운드 시작</style></link> 시 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸립니다.\" 효과를 부여합니다.",
+    "descriptionRaw": "적 하나에게 \"다음 라운드 시작 시 동상에 걸립니다.\" 효과를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "얼음이 아무리 두꺼워 보여도<br>얼음을 건너기 전에 확인해야 합니다.",
+    "artistName": "Kudos Productions",
+    "name": "갈라지는 얼음",
+    "cardCode": "06FR037",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC045-full.png"
       }
     ],
     "regions": [
@@ -1377,8 +2968,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC036-full.png"
       }
     ],
     "regions": [
@@ -1421,8 +3012,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC040-full.png"
       }
     ],
     "regions": [
@@ -1465,8 +3056,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC039-full.png"
       }
     ],
     "regions": [
@@ -1509,8 +3100,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC044-full.png"
       }
     ],
     "regions": [
@@ -1553,8 +3144,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC026-full.png"
       }
     ],
     "regions": [
@@ -1591,8 +3182,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC030-full.png"
       }
     ],
     "regions": [
@@ -1635,8 +3226,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC031-full.png"
       }
     ],
     "regions": [
@@ -1673,8 +3264,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BC035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BC035-full.png"
       }
     ],
     "regions": [
@@ -1715,8 +3306,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO005-full.png"
       }
     ],
     "regions": [
@@ -1757,8 +3348,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO038-full.png"
       }
     ],
     "regions": [
@@ -1801,8 +3392,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO012-full.png"
       }
     ],
     "regions": [
@@ -1845,8 +3436,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO009-full.png"
       }
     ],
     "regions": [
@@ -1889,8 +3480,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO033-full.png"
       }
     ],
     "regions": [
@@ -1933,8 +3524,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO004-full.png"
       }
     ],
     "regions": [
@@ -1973,8 +3564,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO010-full.png"
       }
     ],
     "regions": [
@@ -2019,8 +3610,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO036-full.png"
       }
     ],
     "regions": [
@@ -2063,8 +3654,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO012T1-full.png"
       }
     ],
     "regions": [
@@ -2107,8 +3698,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO012T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO012T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO012T2-full.png"
       }
     ],
     "regions": [
@@ -2151,8 +3742,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO003-full.png"
       }
     ],
     "regions": [
@@ -2195,8 +3786,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO003T1-full.png"
       }
     ],
     "regions": [
@@ -2237,8 +3828,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO004T1-full.png"
       }
     ],
     "regions": [
@@ -2279,8 +3870,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06IO035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06IO035-full.png"
       }
     ],
     "regions": [
@@ -2317,33 +3908,75 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ032-full.png"
       }
     ],
     "regions": [
-      "타곤"
+      "필트오버 & 자운"
     ],
     "regionRefs": [
-      "Targon"
+      "PiltoverZaun"
     ],
-    "attack": 4,
-    "cost": 5,
-    "health": 6,
-    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 모든 아군의 체력을 3 회복시킵니다.",
-    "descriptionRaw": "해오름: 모든 아군의 체력을 3 회복시킵니다.",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "비용이 2인 새 주문 2장 중 하나를 골라 손에 생성하고 이 라운드에 비용을 0으로 감소시킵니다. 그리고 두 번 더 반복합니다.",
+    "descriptionRaw": "비용이 2인 새 주문 2장 중 하나를 골라 손에 생성하고 이 라운드에 비용을 0으로 감소시킵니다. 그리고 두 번 더 반복합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "스텔라콘은 별에서 태어났고 일부는 다른 스텔라콘보다 더 뜨겁게 타오릅니다.",
+    "flavorText": "자운 최초의 노래돌림기는 놀라울 정도로 안정적인 성능을 뽐냈습니다. 다만 음량을 조절할 수 없다는 게<br>유일한 단점이었죠.",
     "artistName": "Kudos Productions",
-    "name": "솔라리 스텔라콘",
-    "cardCode": "06MT044",
+    "name": "터질 듯한 노래돌림기",
+    "cardCode": "06PZ032",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ042-full.png"
+      }
+    ],
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 손에 든 카드 1장을 선택합니다.<br>그 카드와 똑같은 복사본 4장을 내 덱에 생성하고 비용을 1 감소시킵니다.",
+    "descriptionRaw": "사용: 손에 든 카드 1장을 선택합니다.그 카드와 똑같은 복사본 4장을 내 덱에 생성하고 비용을 1 감소시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"흠, 내가 오늘 일에 대해 말할 수 있는 내용은<br>더 좋을 수 있었다는 거야. 여기까지 해야지.<br>미래의 나... 넌 우리가 뭘 했는지 알고 있잖아.\"\n- 케이의 일기",
+    "artistName": "Kudos Productions",
+    "name": "사악한 불완전주의자",
+    "cardCode": "06PZ042",
     "keywords": [],
     "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
     "type": "유닛",
@@ -2355,161 +3988,69 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ025-full.png"
       }
     ],
     "regions": [
-      "타곤"
+      "필트오버 & 자운"
     ],
     "regionRefs": [
-      "Targon"
+      "PiltoverZaun"
     ],
-    "attack": 0,
-    "cost": 6,
-    "health": 0,
-    "description": "아군 하나를 완전히 회복하고<br>공격력을 체력과 같아지도록 합니다.",
-    "descriptionRaw": "아군 하나를 완전히 회복하고공격력을 체력과 같아지도록 합니다.",
+    "attack": 4,
+    "cost": 5,
+    "health": 4,
+    "description": "소환 시 무작위 껍데기 하나를 소환합니다.\r\n비용이 1인 아군을 소환하면 해당 아군에게 무작위 키워드를 부여합니다.",
+    "descriptionRaw": "소환 시 무작위 껍데기 하나를 소환합니다.\r\n비용이 1인 아군을 소환하면 해당 아군에게 무작위 키워드를 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "''우리는 무엇보다도 우리 자신에게 연민을 느껴야 해요.<br>그럼 나머지는 저절로 이뤄지기 마련이죠.''\n- 소라카",
+    "flavorText": "\"중간층에서 집으로 돌아오는 길에 불쌍한 방랑자가<br>작은 골목길에서 흐느끼는 모습을 다시 보게 되었다.<br>그녀의 모습에서 뚜렷하게 보이는 좌절과 수많은 이탈이<br>나의 마음을 날카롭게 후벼팠다. 그러니 내일 그 길을<br>다시 걷게 된다면 내가 할 수 있는 모든 방법을 동원해<br>그녀를 도울 것이다.\"\n- 레이디 셈페스쿠의 일기장에서 발췌한 쪽지",
     "artistName": "Kudos Productions",
-    "name": "천상의 조언",
-    "cardCode": "06MT036",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "03MT006"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT039-full.png"
-      }
-    ],
-    "regions": [
-      "타곤"
-    ],
-    "regionRefs": [
-      "Targon"
-    ],
-    "attack": 0,
-    "cost": 3,
-    "health": 0,
-    "description": "<link=vocab.Countdown><style=Vocab>초읽기 3</style></link><style=Variable></style>: <link=card.summon><style=AssociatedCard>인비올러스 복스</style></link>를 소환합니다.",
-    "descriptionRaw": "초읽기 3: 인비올러스 복스를 소환합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''천상의 용은 성운에서 스스로 태어난다고 하지. 우주 먼지로 완전히 만들어지고 난 뒤, 곧바로 날아오른다고 말이야.<br>하지만 우리들 필멸자는 알 길이 없어. 이 먼 거리에서는<br>오직 그들의 빛밖에 보이지 않으니까.''\n- 용의 전령",
-    "artistName": "Kudos Productions",
-    "name": "용의 휴식처",
-    "cardCode": "06MT039",
-    "keywords": [
-      "명소",
-      "초읽기"
-    ],
-    "keywordRefs": [
-      "LandmarkVisualOnly",
-      "Countdown"
-    ],
+    "name": "고독",
+    "cardCode": "06PZ025",
+    "keywords": [],
+    "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "명소",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT045-full.png"
-      }
-    ],
-    "regions": [
-      "타곤"
-    ],
-    "regionRefs": [
-      "Targon"
-    ],
-    "attack": 0,
-    "cost": 6,
-    "health": 0,
-    "description": "저비용, 중간 비용, 고비용 천상 카드를 <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
-    "descriptionRaw": "저비용, 중간 비용, 고비용 천상 카드를 기원합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''별들이 거대한 가능성을 예언하고 있어.<br>뭔가 오고 있다는 뜻이야. 어떤 형태를 취할까?<br>난 알 수 없겠지! 네 생각은 어때, 쿨룬?''\n- 달을 꿈꾸는 자",
-    "artistName": "Kudos Productions",
-    "name": "천상의 세 선물",
-    "cardCode": "06MT045",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
     "rarity": "희귀급",
     "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
-    "type": "주문",
+    "type": "유닛",
     "collectible": true,
     "set": "Set6"
   },
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "03MT008",
-      "03MT093",
-      "03MT036"
+      "03PZ011",
+      "01PZ005",
+      "01PZ049"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ043-full.png"
       }
     ],
     "regions": [
-      "타곤"
+      "필트오버 & 자운"
     ],
     "regionRefs": [
-      "Targon"
+      "PiltoverZaun"
     ],
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "손에 <link=card.spell1><style=AssociatedCard>간절한 기원</style></link>, <link=card.spell2><style=AssociatedCard>통통별</style></link>, <link=card.spell3><style=AssociatedCard>타곤의 축복</style></link> 중 1장을 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성합니다.",
-    "descriptionRaw": "손에 간절한 기원, 통통별, 타곤의 축복 중 1장을 일회용 상태로 생성합니다.",
+    "description": "손에 <link=card.create1><style=AssociatedCard>여진</style></link>, <link=card.create2><style=AssociatedCard>마법공학 형태변환기</style></link>, <link=card.create3><style=AssociatedCard>진보의 날!</style></link> 중 1장을 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성합니다.",
+    "descriptionRaw": "손에 여진, 마법공학 형태변환기, 진보의 날! 중 1장을 일회용 상태로 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "''참 이상해, 쇼린... 돌을 뒤집지 않아도,<br>어떤 별자리가 그려져 있을지 정확히 알겠어.''\n- 여행자 티아리",
+    "flavorText": "''세상 어느 곳에서도 이보다 더 좋은 물건을 찾지 못할 겁니다, 선생님. 제 딸아이가 아주 세세한 부분까지 <nobr>심혈을 기울여 만들었죠.''</nobr>\n- 코린 레벡",
     "artistName": "Kudos Productions",
-    "name": "타곤 텔스톤",
-    "cardCode": "06MT043",
+    "name": "필트오버 텔스톤",
+    "cardCode": "06PZ043",
     "keywords": [
       "즉발"
     ],
@@ -2529,168 +4070,45 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "06RU001T3"
+      "01PZ030",
+      "01PZ044"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ027-full.png"
       }
     ],
     "regions": [
-      "타곤"
+      "필트오버 & 자운"
     ],
     "regionRefs": [
-      "Targon"
-    ],
-    "attack": 0,
-    "cost": 2,
-    "health": 2,
-    "description": "소환 시 내 덱의 맨 위에 있는 카드에 <link=card.chime><style=AssociatedCard>고대의 종</style></link> 하나를 설치합니다.\r\n<link=keyword.Support><style=Keyword>지원</style></link>: 이 유닛으로부터 지원을 받는 아군에게 +1|+1을 부여합니다.",
-    "descriptionRaw": "소환 시 내 덱의 맨 위에 있는 카드에 고대의 종 하나를 설치합니다.\r\n지원: 이 유닛으로부터 지원을 받는 아군에게 +1|+1을 부여합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''...하지만 듣기로 에스무스는 영겁의 수호자 바드 님이<br>직접 창조하셨대. 에스무스와 함께 세상에 소리가 생겨났고!''\n''거짓말! 에스무스는 늙은 가수의 얼굴을<br>하고 있다고 알려졌지. 그리고 천사의 마음을 지녔지만,<br>목소리는 망자의 것이었다더군... 그러다 바드 님이<br>순수하고 아름다운 목소리를 선물했지!''\n''거짓말! 에스무스는...''\n- 에스무스 탄생 이야기, 음유 시인들 사이에서 인기 있는 놀이",
-    "artistName": "Caravan Studio",
-    "name": "세계의 숨결 에스무스",
-    "cardCode": "06MT029",
-    "keywords": [
-      "포착 불가",
-      "지원"
-    ],
-    "keywordRefs": [
-      "Elusive",
-      "Support"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT038-full.png"
-      }
-    ],
-    "regions": [
-      "타곤"
-    ],
-    "regionRefs": [
-      "Targon"
-    ],
-    "attack": 6,
-    "cost": 7,
-    "health": 5,
-    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 라운드에 다른 모든 아군에게 +2|+1 및 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를 <nobr>일시 부여합니다.</nobr>",
-    "descriptionRaw": "어스름: 이 라운드에 다른 모든 아군에게 +2|+1 및 압도 효과를 일시 부여합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''어머니 달님이시여, 저희에게 힘을 빌려주소서.\n사방에 어둠이 가득하지만\n달님의 빛과 함께라면 이겨낼 수 있습니다.''\n- 루나리의 기도",
-    "artistName": "Kudos Productions",
-    "name": "휘감는 빛",
-    "cardCode": "06MT038",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06RU001T3"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT047-full.png"
-      }
-    ],
-    "regions": [
-      "타곤"
-    ],
-    "regionRefs": [
-      "Targon"
+      "PiltoverZaun"
     ],
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "소환 시 또는 초읽기 시<br>내 덱의 무작위 카드에<br><link=card.chime><style=AssociatedCard>고대의 종</style></link> 셋을 설치합니다.<br><link=vocab.Countdown><style=Vocab>초읽기 2</style></link><style=Variable></style>: 카드 1장을 뽑습니다.",
-    "descriptionRaw": "소환 시 또는 초읽기 시내 덱의 무작위 카드에고대의 종 셋을 설치합니다.초읽기 2: 카드 1장을 뽑습니다.",
+    "description": "손에 <link=card.create1><style=AssociatedCard>수상한 인물</style></link>, <link=card.create2><style=AssociatedCard>화공 펑크족</style></link> 중 1장을 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성하고 비용을 1 감소시킵니다.",
+    "descriptionRaw": "손에 수상한 인물, 화공 펑크족 중 1장을 일회용 상태로 생성하고 비용을 1 감소시킵니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "''그때 그놈들이 수도 없이 많이 나타나더니 이리저리 춤을 추며 노래를 하더군. 그러다가 빛이 번쩍하더니 전부 사라졌어. 사원까지 흔적도 없이 사라졌다 이 말이야.<br>그리고 이 늙은이 개프 손에 뭐가 들려 있었는지 아나?<br>바로 종이었다네.''\n- 늙은이 개프의 이야기 3부",
-    "artistName": "Caravan Studio",
-    "name": "신비의 소용돌이",
-    "cardCode": "06MT047",
+    "flavorText": "자운 최고의 밤 문화는<br>오직 초대받은 사람만 즐길 수 있습니다.<br>밴드 소속이 아니라면 영향력을 키우거나,<br>바닥에 떨어진 티켓을 주워야 하죠.",
+    "artistName": "Kudos Productions",
+    "name": "은밀한 초대",
+    "cardCode": "06PZ027",
     "keywords": [
-      "초읽기",
-      "명소"
+      "즉발"
     ],
     "keywordRefs": [
-      "Countdown",
-      "LandmarkVisualOnly"
+      "Burst"
     ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "명소",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT041-full.png"
-      }
-    ],
-    "regions": [
-      "타곤"
-    ],
-    "regionRefs": [
-      "Targon"
-    ],
-    "attack": 2,
-    "cost": 4,
-    "health": 5,
-    "description": "아군 <link=card.me><style=AssociatedCard>별사냥개 무리</style></link>에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> <nobr>나의 <link=keyword.Fated><sprite name=Fated><style=Keyword>운명</style></link>으로 인한</nobr> <nobr>이로운 효과를</nobr> 부여합니다.",
-    "descriptionRaw": "아군 별사냥개 무리에게 어디에 있든 나의 운명으로 인한 이로운 효과를 부여합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "여정에 나선 등반가들은 별사냥개를 부르거나<br>설득할 수 없었습니다. 그들은 무관심했으며<br>산의 마법에 익숙해진 것 같았습니다.",
-    "artistName": "Kudos Productions",
-    "name": "별사냥개 무리",
-    "cardCode": "06MT041",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
     "rarity": "일반급",
     "rarityRef": "Common",
     "subtypes": [],
     "supertype": "",
-    "type": "유닛",
+    "type": "주문",
     "collectible": true,
     "set": "Set6"
   },
@@ -2699,27 +4117,69 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06MT049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ038-full.png"
       }
     ],
     "regions": [
-      "타곤"
+      "필트오버 & 자운"
     ],
     "regionRefs": [
-      "Targon"
+      "PiltoverZaun"
     ],
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "아군 하나에게 +1|+2를 부여하고 해로운 키워드를 모두 제거합니다.",
-    "descriptionRaw": "아군 하나에게 +1|+2를 부여하고 해로운 키워드를 모두 제거합니다.",
+    "description": "아군 하나에게 <link=keyword.Elusive><sprite name=Elusive><style=Keyword>포착 불가</style></link> 및 \"<link=vocab.NexusStrike><style=Vocab>넥서스 타격</style></link>: 카드 1장을 뽑습니다.\" 효과를 부여합니다.",
+    "descriptionRaw": "아군 하나에게 포착 불가 및 \"넥서스 타격: 카드 1장을 뽑습니다.\" 효과를 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "종소리를 들은 사람들은 그 순수한 음색에 감명받습니다.",
+    "flavorText": "\"내가 오늘 뭘 찾았는지 다들 믿지 못할걸!\"\n- 지하동굴 폐품팔이",
     "artistName": "Kudos Productions",
-    "name": "미카엘의 축복",
-    "cardCode": "06MT049",
+    "name": "주워 온 위장망토",
+    "cardCode": "06PZ038",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06PZ039-full.png"
+      }
+    ],
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "사용하려면 카드를 최대 2장까지 버려야 합니다. 내 덱과 지역이 같고 비용이 1씩 높은 추종자들을 버린 카드 수만큼 생성하고,<br>비용을 1씩 감소시킵니다.",
+    "descriptionRaw": "사용하려면 카드를 최대 2장까지 버려야 합니다. 내 덱과 지역이 같고 비용이 1씩 높은 추종자들을 버린 카드 수만큼 생성하고,비용을 1씩 감소시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "자운 깊은 곳에서 현지인들은 수집한 고물과 쓰레기를<br>작업 가능한 소재로 바꿔야 합니다.<br>수십 년 동안 계속된 작업 이후<br>현지인들의 실력은 발전하게 되었습니다.",
+    "artistName": "Kudos Productions",
+    "name": "고물 인양",
+    "cardCode": "06PZ039",
     "keywords": [
       "즉발"
     ],
@@ -2745,8 +4205,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006-full.png"
       }
     ],
     "regions": [
@@ -2791,8 +4251,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006T1-full.png"
       }
     ],
     "regions": [
@@ -2837,8 +4297,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006T2-full.png"
       }
     ],
     "regions": [
@@ -2879,8 +4339,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW006T3-full.png"
       }
     ],
     "regions": [
@@ -2917,8 +4377,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW036-full.png"
       }
     ],
     "regions": [
@@ -2959,8 +4419,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW038-full.png"
       }
     ],
     "regions": [
@@ -3005,8 +4465,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW030-full.png"
       }
     ],
     "regions": [
@@ -3051,8 +4511,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011-full.png"
       }
     ],
     "regions": [
@@ -3097,8 +4557,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T1-full.png"
       }
     ],
     "regions": [
@@ -3145,8 +4605,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T5-full.png"
       }
     ],
     "regions": [
@@ -3191,8 +4651,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T4-full.png"
       }
     ],
     "regions": [
@@ -3237,8 +4697,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T3-full.png"
       }
     ],
     "regions": [
@@ -3283,8 +4743,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW011T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW011T2-full.png"
       }
     ],
     "regions": [
@@ -3327,8 +4787,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW021-full.png"
       }
     ],
     "regions": [
@@ -3369,8 +4829,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW045-full.png"
       }
     ],
     "regions": [
@@ -3415,8 +4875,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW028-full.png"
       }
     ],
     "regions": [
@@ -3459,8 +4919,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW035-full.png"
       }
     ],
     "regions": [
@@ -3494,51 +4954,13 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW009-full.png"
-      }
-    ],
-    "regions": [
-      "빌지워터"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
-    "attack": 3,
-    "cost": 3,
-    "health": 2,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 비용이 1인 아군이 자유 공격을 시작합니다.",
-    "descriptionRaw": "사용: 비용이 1인 아군이 자유 공격을 시작합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''대양의 가르침을 기억하라! 움직이지 않으면, 움직이게 되리라! 길을 잃었다면 내 목소리를 따르라.<br>너희 적들은 어디로 가야 할지 알고 있을 테니.'' ",
-    "artistName": "Envar Studio",
-    "name": "부흐루 지도자",
-    "cardCode": "06BW009",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
     "associatedCardRefs": [
       "06BW006T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW015-full.png"
       }
     ],
     "regions": [
@@ -3581,8 +5003,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW007-full.png"
       }
     ],
     "regions": [
@@ -3623,8 +5045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW037-full.png"
       }
     ],
     "regions": [
@@ -3665,8 +5087,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW041-full.png"
       }
     ],
     "regions": [
@@ -3711,8 +5133,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW016-full.png"
       }
     ],
     "regions": [
@@ -3746,6 +5168,44 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW009-full.png"
+      }
+    ],
+    "regions": [
+      "빌지워터"
+    ],
+    "regionRefs": [
+      "Bilgewater"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 비용이 1인 아군이 자유 공격을 시작합니다.",
+    "descriptionRaw": "사용: 비용이 1인 아군이 자유 공격을 시작합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''대양의 가르침을 기억하라! 움직이지 않으면, 움직이게 되리라! 길을 잃었다면 내 목소리를 따르라.<br>너희 적들은 어디로 가야 할지 알고 있을 테니.'' ",
+    "artistName": "Envar Studio",
+    "name": "부흐루 지도자",
+    "cardCode": "06BW009",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "02BW012",
       "02BW051",
@@ -3755,8 +5215,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW043-full.png"
       }
     ],
     "regions": [
@@ -3797,8 +5257,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW018-full.png"
       }
     ],
     "regions": [
@@ -3839,8 +5299,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW015T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW015T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW015T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW015T4-full.png"
       }
     ],
     "regions": [
@@ -3881,8 +5341,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW015T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06BW015T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW015T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06BW015T5-full.png"
       }
     ],
     "regions": [
@@ -3920,653 +5380,37 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX024T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX024-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 2,
-    "cost": 6,
-    "health": 4,
-    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>사용</style></link>: 적 하나에게 피해를 2 입힙니다.\r\n내 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문과 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>에 \"<link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>했거나 피해를 입은 적에게 피해를 입히면 처치합니다.\" 효과가 추가됩니다.",
-    "descriptionRaw": "사용: 적 하나에게 피해를 2 입힙니다.\r\n내 신속 주문과 집중 주문, 스킬에 \"기절했거나 피해를 입은 적에게 피해를 입히면 처치합니다.\" 효과가 추가됩니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''제2막: 겉과 속이 다른 그 귀족은 가진 건 없지만,<br>몰래 빼돌린 카슈리 건틀릿으로 아이오니아인들의<br>환심을 산다. 하지만 귀족의 가면은 허술해서 간파하기 쉽다.<br>귀족은 아무것도 몰랐다며 목숨을 구걸한다.<br>철권통치의 계획은 이제 무용지물이다.''",
-    "artistName": "Kudos Productions ",
-    "name": "브로드메인 경",
-    "cardCode": "06NX024",
-    "keywords": [
-      "Missing Translation"
-    ],
-    "keywordRefs": [
-      "AuraVisualFakeKeyword"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "01NX010"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX033-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 4,
-    "health": 0,
-    "description": "적 둘을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시키거나 6마나를 사용해 <link=card.summon><style=AssociatedCard>군단장</style></link> 하나를 소환합니다. <style=Variable></style>",
-    "descriptionRaw": "적 둘을 기절시키거나 6마나를 사용해 군단장 하나를 소환합니다. ",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "모든 전투에서는 반드시 임무 할당이라는<br>중요한 과정이 선행되어야 합니다. 뛰어난 지휘관은<br>승리하기 위해 무엇이 필요한지 잘 알죠. 그것은 바로...",
-    "artistName": "Kudos Productions",
-    "name": "전략 실행",
-    "cardCode": "06NX033",
-    "keywords": [
-      "집중"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "집중",
-    "spellSpeedRef": "Slow",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "01NX010"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX033T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX033T2-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 6,
-    "health": 0,
-    "description": "<link=card.summon><style=AssociatedCard>군단장</style></link> 하나를 소환합니다. <style=Variable></style> ",
-    "descriptionRaw": "군단장 하나를 소환합니다.  ",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "...강력한 공격입니다.",
-    "artistName": "Kudos Productions",
-    "name": "전략 실행",
-    "cardCode": "06NX033T2",
-    "keywords": [
-      "집중"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "집중",
-    "spellSpeedRef": "Slow",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX033T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX033T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT044-full.png"
       }
     ],
     "regions": [
-      "녹서스"
+      "타곤"
     ],
     "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 4,
-    "health": 0,
-    "description": "적 둘을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
-    "descriptionRaw": "적 둘을 기절시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "...튼튼한 방어입니다.",
-    "artistName": "Kudos Productions",
-    "name": "전략 실행",
-    "cardCode": "06NX033T1",
-    "keywords": [
-      "집중"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "집중",
-    "spellSpeedRef": "Slow",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX012T6",
-      "06NX012T3",
-      "06NX012T7",
-      "06NX012T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 1,
-    "health": 2,
-    "description": "<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.\r\n",
-    "descriptionRaw": "공격: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.\r\n",
-    "levelupDescription": "소환된 상태에서 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문이나 <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 6번 이상 사용해야 합니다. <style=Variable></style>",
-    "levelupDescriptionRaw": "소환된 상태에서 신속 또는 집중 주문이나 스킬을 6번 이상 사용해야 합니다. ",
-    "flavorText": "약 10년 전, 아몰린 키오사는 귀중하면서도 강력한 자산을<br>손에 넣은 채 레이븐블룸 예술학교를 떠났습니다.<br>레이븐블룸의 정찰병들은 제국을 샅샅이 수색했지만,<br>아몰린을 찾을 수 없었습니다. 그리고 몇 년 후,<br>강철가시 산맥 북부에서 분노로 불타는 소녀에 관한<br>소식이 들렸을 때, 핀 레트릭은 어쩔 수 없이<br>준비를 갖추고 조사를 위해 그곳으로 떠났죠.<br>이번에도 아무런 성과가 없을 줄 알았지만,<br>그것은 핀의 착각이었습니다.",
-    "artistName": "Polar Engine",
-    "name": "애니",
-    "cardCode": "06NX012",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "챔피언",
-    "rarityRef": "Champion",
-    "subtypes": [],
-    "supertype": "챔피언",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX012T7",
-      "06NX012"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T3-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 2,
-    "health": 0,
-    "description": "유닛 하나를 선택합니다. 이 라운드에 <nobr>해당 유닛이</nobr> 1 이상의 피해를 입으면 처치합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>애니</style></link> 1장을 생성합니다.",
-    "descriptionRaw": "유닛 하나를 선택합니다. 이 라운드에 해당 유닛이 1 이상의 피해를 입으면 처치합니다.\r\n내 덱에 애니 1장을 생성합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "텔시 교장이 녹서스의 이념에 관해 장황하게 설명하자<br>아이들은 지루해하며 가만히 있지 못했습니다. 학생들<br>대부분은 불만을 속으로 삭였지만, 애니는 행동했습니다.<br>처음에는 연기로, 그리고 곧이어 불로 말이죠.",
-    "artistName": "Kudos Productions",
-    "name": "애니의 뜨거운 붕괴",
-    "cardCode": "06NX012T3",
-    "keywords": [
-      "신속"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
-    "spellSpeed": "신속",
-    "spellSpeedRef": "Fast",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "챔피언",
-    "type": "주문",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX012"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T6-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "<link=card.parentRef><style=AssociatedCard>애니</style></link>를 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.",
-    "descriptionRaw": "애니를 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''너도 같이 놀래?''\n- 애니",
-    "artistName": "Kudos Productions",
-    "name": "용암 방패",
-    "cardCode": "06NX012T6",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX012T3",
-      "06NX012T1",
-      "06NX012T8",
-      "06NX012"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T7-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 1,
-    "cost": 1,
-    "health": 3,
-    "description": "레벨 업하면 손에 <link=card.create><style=AssociatedCard>티버</style></link>를 생성합니다.\r\n<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 3 입히고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.<br>방어 유닛이 사망하거나 사라지면 대신<br>적 넥서스에 피해를 3 입힙니다.",
-    "descriptionRaw": "레벨 업하면 손에 티버를 생성합니다.\r\n공격: 이 유닛을 방어하는 유닛에게 피해를 3 입히고 기절시킵니다.방어 유닛이 사망하거나 사라지면 대신적 넥서스에 피해를 3 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''그 꼬마를 찾았어. 아몰린의 딸이 확실해.<br>눈과 웃음소리가 똑 닮았더군. 보름 안에 데리고 갈게.<br>얘기를 나눠 봤는데, 다정하게 대해 주길 바라.<br>착한 마음을 지닌 아이야. 물론 어둠도 있지만.''\n- 핀 레트릭의 편지에서 발췌",
-    "artistName": "Polar Engine",
-    "name": "애니",
-    "cardCode": "06NX012T7",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "챔피언",
-    "type": "유닛",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T5-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시키고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
-    "descriptionRaw": "적 하나를 기절시키고 기절했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''티버!''\n- 애니",
-    "artistName": "Kudos Productions",
-    "name": "화산 강습",
-    "cardCode": "06NX012T5",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX012T5",
-      "06NX012T7"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T1-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 5,
-    "cost": 6,
-    "health": 5,
-    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>사용</style></link>: 적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시키고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
-    "descriptionRaw": "사용: 적 하나를 기절시키고 기절했거나 피해를 입은 모든 적에게 피해를 2 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "악마 티벌크는 수백 년 동안 수많은 이들의 정신을 악에 물들였습니다. 그들을 천천히 그리고 냉혹하게 불로 이끈 다음 자신의 불꽃이 그들을 집어삼키는 모습을 지켜봤죠. 하지만 어린 애니에게는 불굴의 의지, 그리고 자신과 비견할 만한 마법의 재능이 있었습니다.",
-    "artistName": "Polar Engine",
-    "name": "티버",
-    "cardCode": "06NX012T1",
-    "keywords": [
-      "공포"
-    ],
-    "keywordRefs": [
-      "Fearsome"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX012T7"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX012T8-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "<link=card.parentRef><style=AssociatedCard>애니</style></link>를 방어하는 유닛에게 피해를 3 입히고 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
-    "descriptionRaw": "애니를 방어하는 유닛에게 피해를 3 입히고 기절시킵니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''재미있겠다...''\n- 애니",
-    "artistName": "Kudos Productions",
-    "name": "용암 방패",
-    "cardCode": "06NX012T8",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX029-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 2,
-    "health": 0,
-    "description": "공격력이 5 이상인 아군이 사망하면 손에 공격력이 5 이상인 무작위 추종자를 생성합니다.",
-    "descriptionRaw": "공격력이 5 이상인 아군이 사망하면 손에 공격력이 5 이상인 무작위 추종자를 생성합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''오늘 펜로즈 힐에 있던 내 예전 병원 생각이 났다.<br>생리학의 비밀을 풀기 위해 노력했던 그 세월도!<br>레이디 노라디 밑에서 일한 지 몇 달이 지난 지금,<br>난 아무것도 배운 게 없다는 사실을 깨달았다.<br>예전의 나는 참 소박했다. 운도 따랐지.''\n- 에슬랭거 박사의 기록",
-    "artistName": "Envar Studio",
-    "name": "음침한 약제사",
-    "cardCode": "06NX029",
-    "keywords": [
-      "명소"
-    ],
-    "keywordRefs": [
-      "LandmarkVisualOnly"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "명소",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX032-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
+      "Targon"
     ],
     "attack": 4,
-    "cost": 2,
-    "health": 1,
-    "description": "아군이 공격하면 함께 공격합니다.",
-    "descriptionRaw": "아군이 공격하면 함께 공격합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''용 사냥개를 보고 있자면 참 즐거워, 안 그래?<br>늘 주인을 기쁘게 하려고 애쓰고, 말도 잘 듣거든.<br>적들도 이 녀석들처럼 쓸 만하다면 얼마나 좋을까?''\n- 장미의 가시",
-    "artistName": "Michael Ivan",
-    "name": "순종적인 용 사냥개",
-    "cardCode": "06NX032",
-    "keywords": [
-      "행동불가",
-      "선제공격"
-    ],
-    "keywordRefs": [
-      "Immobile",
-      "QuickStrike"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX030-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 5,
     "cost": 5,
-    "health": 4,
-    "description": "아군에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 부여되는<br>이로운 효과를 모두 얻습니다.\r\n",
-    "descriptionRaw": "아군에게 어디에 있든 부여되는이로운 효과를 모두 얻습니다.\r\n",
+    "health": 6,
+    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 모든 아군의 체력을 3 회복시킵니다.",
+    "descriptionRaw": "해오름: 모든 아군의 체력을 3 회복시킵니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "''제1막: 군에서 복무하다 고대 카슈리 유물을 훔쳐 탈영한<br>남자는 카이안비의 술집에 숨는다. 술집은 오만한 자들과<br>취기로 가득하다. 하지만 남자는 알지 못한다. 자신이<br>훔친 보물이 주인에게 모든 걸 알려 주고 있다는 사실을!<br>마치 포도주처럼 남자의 목숨이 흘러내린다.<br>녹서스인의 피가 아이오니아의 보물을 붉게 물들인다.'' ",
+    "flavorText": "스텔라콘은 별에서 태어났고 일부는 다른 스텔라콘보다 더 뜨겁게 타오릅니다.",
     "artistName": "Kudos Productions",
-    "name": "군단 탈영병",
-    "cardCode": "06NX030",
-    "keywords": [
-      "공포"
-    ],
-    "keywordRefs": [
-      "Fearsome"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX013T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX013-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 1,
-    "cost": 2,
-    "health": 1,
-    "description": "<link=keyword.PlaySkillMark><sprite name=SkillMark><style=Keyword>사용</style></link>: 적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다. 이미 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>한 상태라면 대신<br>피해를 2 입힙니다.",
-    "descriptionRaw": "사용: 적 하나를 기절시킵니다. 이미 기절한 상태라면 대신피해를 2 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''학생: 사이델 키테라\n교사: J. 윌러\n사유: 거미가 제 왼쪽 팔뚝을 물었습니다. 사이델은<br>억울하다고 하지만, 히죽거리는 걸 보니 거짓말이 분명합니다.<br>식당 봉사 2주의 추가 징계를 내렸습니다.''\n- 레이븐블룸 징계 사유서",
-    "artistName": "Polar Engine",
-    "name": "주문술사",
-    "cardCode": "06NX013",
-    "keywords": [
-      "공포"
-    ],
-    "keywordRefs": [
-      "Fearsome"
-    ],
+    "name": "솔라리 스텔라콘",
+    "cardCode": "06MT044",
+    "keywords": [],
+    "keywordRefs": [],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "일반급",
     "rarityRef": "Common",
-    "subtypes": [
-      "거미"
-    ],
+    "subtypes": [],
     "supertype": "",
     "type": "유닛",
     "collectible": true,
@@ -4577,71 +5421,71 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT036-full.png"
       }
     ],
     "regions": [
-      "녹서스"
+      "타곤"
     ],
     "regionRefs": [
-      "Noxus"
+      "Targon"
     ],
     "attack": 0,
-    "cost": 4,
+    "cost": 6,
     "health": 0,
-    "description": "라운드마다 처음으로 공격력이 <nobr>5 이상인</nobr> 아군이 공격하면 <link=vocab.Rally><style=Vocab>결집</style></link>합니다.",
-    "descriptionRaw": "라운드마다 처음으로 공격력이 5 이상인 아군이 공격하면 결집합니다.",
+    "description": "아군 하나를 완전히 회복하고<br>공격력을 체력과 같아지도록 합니다.",
+    "descriptionRaw": "아군 하나를 완전히 회복하고공격력을 체력과 같아지도록 합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"내 명령에 따라 전투를 시작해라! 상대를 죽였다면<br>다른 상대를 찾아라! 쓰러졌다면 네 죽음이 녹서스를<br>더 강하게 만들었음을 깨닫고 쓰러져라!<br>트리파르 병사들이여... 시작하라!\"\n- 트리파르 심사관",
+    "flavorText": "''우리는 무엇보다도 우리 자신에게 연민을 느껴야 해요.<br>그럼 나머지는 저절로 이뤄지기 마련이죠.''\n- 소라카",
     "artistName": "Kudos Productions",
-    "name": "트리파르 훈련장",
-    "cardCode": "06NX040",
+    "name": "천상의 조언",
+    "cardCode": "06MT036",
     "keywords": [
-      "명소"
+      "즉발"
     ],
     "keywordRefs": [
-      "LandmarkVisualOnly"
+      "Burst"
     ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
     "rarity": "서사급",
     "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
-    "type": "명소",
+    "type": "주문",
     "collectible": true,
     "set": "Set6"
   },
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "06NX028T1"
+      "03MT006"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT039-full.png"
       }
     ],
     "regions": [
-      "녹서스"
+      "타곤"
     ],
     "regionRefs": [
-      "Noxus"
+      "Targon"
     ],
     "attack": 0,
-    "cost": 1,
+    "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Countdown><style=Vocab>초읽기 12</style></link>: 손에 <link=card.create><style=AssociatedCard>티벌크</style></link> 1장을 생성합니다.\r\n이 게임에서 사용한 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link> 하나당 1라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>합니다. <style=Variable></style>",
-    "descriptionRaw": "초읽기 12: 손에 티벌크 1장을 생성합니다.\r\n이 게임에서 사용한 신속 또는 집중 주문, 스킬 하나당 1라운드만큼 진행합니다. ",
+    "description": "<link=vocab.Countdown><style=Vocab>초읽기 3</style></link><style=Variable></style>: <link=card.summon><style=AssociatedCard>인비올러스 복스</style></link>를 소환합니다.",
+    "descriptionRaw": "초읽기 3: 인비올러스 복스를 소환합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "''...지금쯤이면 로즈가드 아카데미의 비참한 상황에 대한 소식을 들었겠지요. 자매 학교를 보고 느끼는 게 있기를 바랍니다. 제국에 보탬이 될 수 있도록 학교를 잘 관리하도록 하십시오.''\n- 학교 잔해에서 발견된 그을린 편지",
-    "artistName": "Will Gist",
-    "name": "레이븐블룸 예술학교",
-    "cardCode": "06NX028",
+    "flavorText": "''천상의 용은 성운에서 스스로 태어난다고 하지. 우주 먼지로 완전히 만들어지고 난 뒤, 곧바로 날아오른다고 말이야.<br>하지만 우리들 필멸자는 알 길이 없어. 이 먼 거리에서는<br>오직 그들의 빛밖에 보이지 않으니까.''\n- 용의 전령",
+    "artistName": "Kudos Productions",
+    "name": "용의 휴식처",
+    "cardCode": "06MT039",
     "keywords": [
       "명소",
       "초읽기"
@@ -4652,8 +5496,8 @@
     ],
     "spellSpeed": "",
     "spellSpeedRef": "",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
     "subtypes": [],
     "supertype": "",
     "type": "명소",
@@ -4662,84 +5506,40 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX028"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX028T1-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 6,
-    "cost": 6,
-    "health": 6,
-    "description": "소환 시 모든 아군에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> +1|+0을 부여하고 게임 종료까지 모든 주문과 <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>이 추가로 피해를 1 입힙니다.",
-    "descriptionRaw": "소환 시 모든 아군에게 어디에 있든 +1|+0을 부여하고 게임 종료까지 모든 주문과 스킬이 추가로 피해를 1 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''...그 어두운 존재는 내 안에서 불타며 속삭인다. 불, 불이라고.<br>불꽃 속에서 그것의 검은 눈이 보인다.<br>깜빡이지 않는 눈으로 날 노려보며 웃는다.<br>그리고 내게 다른 이들과 함께하라고 유혹한다.<br>지옥불 속의 형체들이 내게 손짓한다. 집으로 돌아오라고.''\n- 노쇠한 녹머치인이 남긴 일지의 일부",
-    "artistName": "Will Gist",
-    "name": "티벌크",
-    "cardCode": "06NX028T1",
-    "keywords": [
-      "압도"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT045-full.png"
       }
     ],
     "regions": [
-      "녹서스"
+      "타곤"
     ],
     "regionRefs": [
-      "Noxus"
+      "Targon"
     ],
     "attack": 0,
-    "cost": 2,
+    "cost": 6,
     "health": 0,
-    "description": "유닛 하나를 선택합니다. 이 라운드에 해당 유닛이 1 이상의 피해를 입으면 처치합니다.",
-    "descriptionRaw": "유닛 하나를 선택합니다. 이 라운드에 해당 유닛이 1 이상의 피해를 입으면 처치합니다.",
+    "description": "저비용, 중간 비용, 고비용 천상 카드를 <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "저비용, 중간 비용, 고비용 천상 카드를 기원합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "텔시 교장이 녹서스의 이념에 관해 장황하게 설명하자 아이들은 지루해하며 가만히 있지 못했습니다. 학생들 대부분은 불만을 속으로 삭였지만, 애니는 행동했습니다. 처음에는 연기로, 그리고 곧이어 불로 말이죠.",
+    "flavorText": "''별들이 거대한 가능성을 예언하고 있어.<br>뭔가 오고 있다는 뜻이야. 어떤 형태를 취할까?<br>난 알 수 없겠지! 네 생각은 어때, 쿨룬?''\n- 달을 꿈꾸는 자",
     "artistName": "Kudos Productions",
-    "name": "뜨거운 붕괴",
-    "cardCode": "06NX014",
+    "name": "천상의 세 선물",
+    "cardCode": "06MT045",
     "keywords": [
-      "신속"
+      "즉발"
     ],
     "keywordRefs": [
-      "Fast"
+      "Burst"
     ],
-    "spellSpeed": "신속",
-    "spellSpeedRef": "Fast",
-    "rarity": "일반급",
-    "rarityRef": "Common",
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
     "subtypes": [],
     "supertype": "",
     "type": "주문",
@@ -4748,164 +5548,122 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT008",
+      "03MT093",
+      "03MT036"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT043-full.png"
+      }
+    ],
+    "regions": [
+      "타곤"
+    ],
+    "regionRefs": [
+      "Targon"
+    ],
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "손에 <link=card.spell1><style=AssociatedCard>간절한 기원</style></link>, <link=card.spell2><style=AssociatedCard>통통별</style></link>, <link=card.spell3><style=AssociatedCard>타곤의 축복</style></link> 중 1장을 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성합니다.",
+    "descriptionRaw": "손에 간절한 기원, 통통별, 타곤의 축복 중 1장을 일회용 상태로 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''참 이상해, 쇼린... 돌을 뒤집지 않아도,<br>어떤 별자리가 그려져 있을지 정확히 알겠어.''\n- 여행자 티아리",
+    "artistName": "Kudos Productions",
+    "name": "타곤 텔스톤",
+    "cardCode": "06MT043",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "06RU001T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT029-full.png"
+      }
+    ],
+    "regions": [
+      "타곤"
+    ],
+    "regionRefs": [
+      "Targon"
+    ],
+    "attack": 0,
+    "cost": 2,
+    "health": 2,
+    "description": "소환 시 내 덱의 맨 위에 있는 카드에 <link=card.chime><style=AssociatedCard>고대의 종</style></link> 하나를 설치합니다.\r\n<link=keyword.Support><style=Keyword>지원</style></link>: 이 유닛으로부터 지원을 받는 아군에게 +1|+1을 부여합니다.",
+    "descriptionRaw": "소환 시 내 덱의 맨 위에 있는 카드에 고대의 종 하나를 설치합니다.\r\n지원: 이 유닛으로부터 지원을 받는 아군에게 +1|+1을 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "''...하지만 듣기로 에스무스는 영겁의 수호자 바드 님이<br>직접 창조하셨대. 에스무스와 함께 세상에 소리가 생겨났고!''\n''거짓말! 에스무스는 늙은 가수의 얼굴을<br>하고 있다고 알려졌지. 그리고 천사의 마음을 지녔지만,<br>목소리는 망자의 것이었다더군... 그러다 바드 님이<br>순수하고 아름다운 목소리를 선물했지!''\n''거짓말! 에스무스는...''\n- 에스무스 탄생 이야기, 음유 시인들 사이에서 인기 있는 놀이",
+    "artistName": "Caravan Studio",
+    "name": "세계의 숨결 에스무스",
+    "cardCode": "06MT029",
+    "keywords": [
+      "포착 불가",
+      "지원"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "Support"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT038-full.png"
       }
     ],
     "regions": [
-      "녹서스"
+      "타곤"
     ],
     "regionRefs": [
-      "Noxus"
+      "Targon"
     ],
-    "attack": 5,
-    "cost": 6,
+    "attack": 6,
+    "cost": 7,
     "health": 5,
-    "description": "<link=vocab.Reputation><style=Vocab>명성</style></link>: 비용이 3이 됩니다. <style=Variable></style>",
-    "descriptionRaw": "명성: 비용이 3이 됩니다. ",
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 라운드에 다른 모든 아군에게 +2|+1 및 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를 <nobr>일시 부여합니다.</nobr>",
+    "descriptionRaw": "어스름: 이 라운드에 다른 모든 아군에게 +2|+1 및 압도 효과를 일시 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "사슬에 묶인 두 설인이 보르덴트의 전설적인 투기장으로 들어오자 군중은 숨을 죽였습니다. 누구도 전에 설인의 힘을<br>본 적이 없었기에 설인들이 사슬을 끊을 정도로<br>강력하다 생각하지 않았습니다.",
+    "flavorText": "''어머니 달님이시여, 저희에게 힘을 빌려주소서.\n사방에 어둠이 가득하지만\n달님의 빛과 함께라면 이겨낼 수 있습니다.''\n- 루나리의 기도",
     "artistName": "Kudos Productions",
-    "name": "사로잡힌 설인",
-    "cardCode": "06NX031",
-    "keywords": [
-      "압도"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [
-      "설인"
-    ],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX009T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX009-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 2,
-    "cost": 4,
-    "health": 3,
-    "description": "<link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
-    "descriptionRaw": "공격: 이 유닛을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''제3막: 잔혹한 주인과 그녀의 애완동물. 잿빛등은 끔찍한 일에 동원되지만, 그 자체는 무고하다. 녀석이 몸에 지닌 유물이 복종을 강요하기 때문이다. 주인은 애완동물에게 잡아먹히지만, 비명을 지르지 않는다. 다른 녹서스인의 최후도 이토록 숭고하다면 어땠을까?''",
-    "artistName": "Michael Ivan",
-    "name": "사로잡힌 잿빛등",
-    "cardCode": "06NX009",
-    "keywords": [
-      "압도"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX009"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX009T1-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "<link=card.parentRef><style=AssociatedCard>사로잡힌 잿빛등</style></link>을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
-    "descriptionRaw": "사로잡힌 잿빛등을 방어하는 유닛에게 피해를 3 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 3 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''교훈으로 새겨 둬. 정복자는 첫 반란이 일어나기 전까지만 목숨을 부지할 수 있지.''\n- 진",
-    "artistName": "Kudos Productions",
-    "name": "명령 수행",
-    "cardCode": "06NX009T1",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX015T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX015-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 3,
-    "cost": 3,
-    "health": 2,
-    "description": "라운드마다 처음으로 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 사용하면<br><link=card.skill><style=AssociatedCard>마법 불꽃</style></link>을 사용합니다.",
-    "descriptionRaw": "라운드마다 처음으로 신속 또는 집중 주문, 스킬을 사용하면마법 불꽃을 사용합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''처음 다아니를 만난 게 2년 전이었지. 멋진 사내였어.<br>게다가 참 예쁜 가족을 꾸렸지. 그러다 마지막으로<br>그 마을에 갔을 때, 가엾은 다아니는 마을 광장 중앙에<br>혼자 앉아 있더군. 가족이 돌아오길 기다린다면서.<br>아마 몇 달은 지난 듯했지. 난 차마 말할 수 없었어.<br>내가 오는 길에 뭘 봤는지 말이야...''\n- 핀 레트릭",
-    "artistName": "Polar Engine",
-    "name": "마법 학생",
-    "cardCode": "06NX015",
+    "name": "휘감는 빛",
+    "cardCode": "06MT038",
     "keywords": [],
     "keywordRefs": [],
     "spellSpeed": "",
@@ -4921,34 +5679,113 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "03NX014",
-      "01NX011",
-      "05NX014",
-      "01NX041"
+      "06RU001T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT047-full.png"
       }
     ],
     "regions": [
-      "녹서스"
+      "타곤"
     ],
     "regionRefs": [
-      "Noxus"
+      "Targon"
     ],
     "attack": 0,
-    "cost": 1,
+    "cost": 2,
     "health": 0,
-    "description": "손에 <link=card.create1><style=AssociatedCard>예리한 결의</style></link>, <link=card.create2><style=AssociatedCard>죽음의 소용돌이</style></link>,<br><link=card.create3><style=AssociatedCard>길 잃은 자의 무기</style></link> 중 1장을<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성합니다.",
-    "descriptionRaw": "손에 예리한 결의, 죽음의 소용돌이,길 잃은 자의 무기 중 1장을일회용 상태로 생성합니다.",
+    "description": "소환 시 또는 초읽기 시<br>내 덱의 무작위 카드에<br><link=card.chime><style=AssociatedCard>고대의 종</style></link> 셋을 설치합니다.<br><link=vocab.Countdown><style=Vocab>초읽기 2</style></link><style=Variable></style>: 카드 1장을 뽑습니다.",
+    "descriptionRaw": "소환 시 또는 초읽기 시내 덱의 무작위 카드에고대의 종 셋을 설치합니다.초읽기 2: 카드 1장을 뽑습니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "''클라라, 토큰에 묻은 피를 닦아야지.''\n- 진홍회 귀족 오필리아 노라디",
+    "flavorText": "''그때 그놈들이 수도 없이 많이 나타나더니 이리저리 춤을 추며 노래를 하더군. 그러다가 빛이 번쩍하더니 전부 사라졌어. 사원까지 흔적도 없이 사라졌다 이 말이야.<br>그리고 이 늙은이 개프 손에 뭐가 들려 있었는지 아나?<br>바로 종이었다네.''\n- 늙은이 개프의 이야기 3부",
+    "artistName": "Caravan Studio",
+    "name": "신비의 소용돌이",
+    "cardCode": "06MT047",
+    "keywords": [
+      "초읽기",
+      "명소"
+    ],
+    "keywordRefs": [
+      "Countdown",
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtypes": [],
+    "supertype": "",
+    "type": "명소",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT041-full.png"
+      }
+    ],
+    "regions": [
+      "타곤"
+    ],
+    "regionRefs": [
+      "Targon"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 5,
+    "description": "아군 <link=card.me><style=AssociatedCard>별사냥개 무리</style></link>에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> <nobr>나의 <link=keyword.Fated><sprite name=Fated><style=Keyword>운명</style></link>으로 인한</nobr> <nobr>이로운 효과를</nobr> 부여합니다.",
+    "descriptionRaw": "아군 별사냥개 무리에게 어디에 있든 나의 운명으로 인한 이로운 효과를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "여정에 나선 등반가들은 별사냥개를 부르거나<br>설득할 수 없었습니다. 그들은 무관심했으며<br>산의 마법에 익숙해진 것 같았습니다.",
     "artistName": "Kudos Productions",
-    "name": "녹서스 텔스톤",
-    "cardCode": "06NX037",
+    "name": "별사냥개 무리",
+    "cardCode": "06MT041",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set6"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06MT049-full.png"
+      }
+    ],
+    "regions": [
+      "타곤"
+    ],
+    "regionRefs": [
+      "Targon"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "아군 하나에게 +1|+2를 부여하고 해로운 키워드를 모두 제거합니다.",
+    "descriptionRaw": "아군 하나에게 +1|+2를 부여하고 해로운 키워드를 모두 제거합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "종소리를 들은 사람들은 그 순수한 음색에 감명받습니다.",
+    "artistName": "Kudos Productions",
+    "name": "미카엘의 축복",
+    "cardCode": "06MT049",
     "keywords": [
       "즉발"
     ],
@@ -4970,178 +5807,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX015T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX015T1-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "적 넥서스에 피해를 1 입힙니다.",
-    "descriptionRaw": "적 넥서스에 피해를 1 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''우와... 마법이 보여요!''\n- 마법 학생",
-    "artistName": "Kudos Productions",
-    "name": "마법 불꽃",
-    "cardCode": "06NX015T1",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX008-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 2,
-    "cost": 3,
-    "health": 3,
-    "description": "내가 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 또는 <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 사용하면 이 유닛이<br>+1|+0을 얻습니다.",
-    "descriptionRaw": "내가 신속 또는 집중 주문, 스킬을 사용하면 이 유닛이+1|+0을 얻습니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''아이들 대부분은 아직 어려서 권위에 반항하려는<br>성향이 있어요. 하지만 다행히 그중 가장 나이가 많은 아이는<br>학생들 사이에서 인기도 많고 우리 지시도 잘 따르죠.<br>만약 학생들이 우리 가르침을 무시하면,<br>그 아이를 통해서 가르치면 돼요.''\n- 텔시 교장",
-    "artistName": "Polar Engine",
-    "name": "학생 대표",
-    "cardCode": "06NX008",
-    "keywords": [
-      "압도"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX013T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX013T1-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.<br>이미 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>한 상태라면 대신<br>피해를 2 입힙니다.",
-    "descriptionRaw": "적 하나를 기절시킵니다.이미 기절한 상태라면 대신피해를 2 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''이제 독니를 쓸 차례군...''\n- 주문술사",
-    "artistName": "Kudos Productions",
-    "name": "굳은 힘줄",
-    "cardCode": "06NX013T1",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "06NX024"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX024T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06NX024T1-full.png"
-      }
-    ],
-    "regions": [
-      "녹서스"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
-    "attack": 0,
-    "cost": 0,
-    "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입힙니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입힙니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "뛰어난 도구가 실력 없는 기술자의 손에서 낭비되고 있습니다.",
-    "artistName": "Kudos Productions",
-    "name": "카슈리 건틀릿",
-    "cardCode": "06NX024T1",
-    "keywords": [
-      "스킬"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "스킬",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH014-full.png"
       }
     ],
     "regions": [
@@ -5151,8 +5818,8 @@
       "Shurima"
     ],
     "attack": 5,
-    "cost": 8,
-    "health": 4,
+    "cost": 9,
+    "health": 5,
     "description": "소환 시 이 게임에서 아군이 가졌던 모든 이로운 키워드를 얻습니다.\r\n소환된 상태에서 아군이 새로운 이로운 키워드를 가지면 이 유닛이 해당 키워드를 얻습니다. <style=Variable></style>",
     "descriptionRaw": "소환 시 이 게임에서 아군이 가졌던 모든 이로운 키워드를 얻습니다.\r\n소환된 상태에서 아군이 새로운 이로운 키워드를 가지면 이 유닛이 해당 키워드를 얻습니다. ",
     "levelupDescription": "",
@@ -5182,8 +5849,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH016-full.png"
       }
     ],
     "regions": [
@@ -5229,8 +5896,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009-full.png"
       }
     ],
     "regions": [
@@ -5273,8 +5940,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH048-full.png"
       }
     ],
     "regions": [
@@ -5315,8 +5982,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH037-full.png"
       }
     ],
     "regions": [
@@ -5353,8 +6020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH008-full.png"
       }
     ],
     "regions": [
@@ -5401,8 +6068,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH042-full.png"
       }
     ],
     "regions": [
@@ -5445,8 +6112,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T4-full.png"
       }
     ],
     "regions": [
@@ -5492,8 +6159,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T2-full.png"
       }
     ],
     "regions": [
@@ -5539,8 +6206,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T3-full.png"
       }
     ],
     "regions": [
@@ -5586,8 +6253,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH009T1-full.png"
       }
     ],
     "regions": [
@@ -5630,8 +6297,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH050-full.png"
       }
     ],
     "regions": [
@@ -5672,8 +6339,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH049-full.png"
       }
     ],
     "regions": [
@@ -5714,8 +6381,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH036-full.png"
       }
     ],
     "regions": [
@@ -5756,8 +6423,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH011-full.png"
       }
     ],
     "regions": [
@@ -5798,8 +6465,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH017-full.png"
       }
     ],
     "regions": [
@@ -5840,8 +6507,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH007-full.png"
       }
     ],
     "regions": [
@@ -5882,8 +6549,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH010-full.png"
       }
     ],
     "regions": [
@@ -5926,8 +6593,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SH034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SH034-full.png"
       }
     ],
     "regions": [
@@ -5964,8 +6631,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE045-full.png"
       }
     ],
     "regions": [
@@ -6006,8 +6673,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE038-full.png"
       }
     ],
     "regions": [
@@ -6052,8 +6719,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE037-full.png"
       }
     ],
     "regions": [
@@ -6094,8 +6761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE035-full.png"
       }
     ],
     "regions": [
@@ -6142,8 +6809,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE042-full.png"
       }
     ],
     "regions": [
@@ -6184,8 +6851,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE036-full.png"
       }
     ],
     "regions": [
@@ -6228,8 +6895,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE037T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE037T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE037T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE037T2-full.png"
       }
     ],
     "regions": [
@@ -6272,8 +6939,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE037T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE037T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE037T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE037T1-full.png"
       }
     ],
     "regions": [
@@ -6314,8 +6981,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06DE030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06DE030-full.png"
       }
     ],
     "regions": [
@@ -6354,388 +7021,14 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "04FR019T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR029-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 0,
-    "cost": 4,
-    "health": 0,
-    "description": "적 하나를 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸리게 합니다.\r\n<link=card.summon><style=AssociatedCard>서리송곳니 무리</style></link> 하나를 소환합니다. 이 게임에서 내가 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸리게 한 적 수만큼 해당 유닛에게 +1|+1을 부여합니다. <style=Variable></style>",
-    "descriptionRaw": "적 하나를 동상에 걸리게 합니다.\r\n서리송곳니 무리 하나를 소환합니다. 이 게임에서 내가 동상에 걸리게 한 적 수만큼 해당 유닛에게 +1|+1을 부여합니다. ",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "추위와 함께 서리송곳니도 찾아옵니다.<br>서리송곳니는 먹잇감을 앞지를 필요가 없습니다...<br>그저 오래 매복하기만 하면 됩니다.",
-    "artistName": "Kudos Productions",
-    "name": "냉기의 공포",
-    "cardCode": "06FR029",
-    "keywords": [
-      "집중"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "집중",
-    "spellSpeedRef": "Slow",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR033-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 2,
-    "cost": 3,
-    "health": 1,
-    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>최후의 숨결</style></link>: 빈 마나 보석을 하나 얻습니다.",
-    "descriptionRaw": "최후의 숨결: 빈 마나 보석을 하나 얻습니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "프렐요드에서 삶과 죽음의 순환은<br>다른 곳과 사뭇 다른 모습입니다.<br>이 혹독한 환경에서는 버려지는 게 거의 없죠.",
-    "artistName": "Kudos Productions",
-    "name": "사냥하는 수퇘지",
-    "cardCode": "06FR033",
-    "keywords": [
-      "공격 전용",
-      "최후의 숨결"
-    ],
-    "keywordRefs": [
-      "CantBlock",
-      "LastBreath"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR038-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 0,
-    "cost": 7,
-    "health": 0,
-    "description": "모든 유닛에게 피해를 3 입힙니다.\r\n<link=keyword.Enlightened><style=Keyword>각성</style></link>: 아군 넥서스의 체력을<br>3 회복시킵니다.",
-    "descriptionRaw": "모든 유닛에게 피해를 3 입힙니다.\r\n각성: 아군 넥서스의 체력을3 회복시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "거대한 얼음불사조의 날개가 그림자를 드리우자<br>추종자들은 기뻐했고, 적들은 공포에 떨었습니다.",
-    "artistName": "Kudos Productions",
-    "name": "얼음불사조의 날개",
-    "cardCode": "06FR038",
-    "keywords": [
-      "집중"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "집중",
-    "spellSpeedRef": "Slow",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "01FR026"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR039-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 0,
-    "cost": 6,
-    "health": 0,
-    "description": "아군 추종자 하나를 <nobr><link=card.summon><style=AssociatedCard>거친발톱 우두머리</style></link></nobr>로 변신시킵니다.",
-    "descriptionRaw": "아군 추종자 하나를 거친발톱 우두머리로 변신시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"위대한 거친발톱의 영혼이여, 우리에게 힘을 부여하소서!\"\n- 우디르",
-    "artistName": "Kudos Productions",
-    "name": "거친발톱의 야성",
-    "cardCode": "06FR039",
-    "keywords": [
-      "몰입"
-    ],
-    "keywordRefs": [
-      "Focus"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR028-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 2,
-    "cost": 6,
-    "health": 2,
-    "description": "소환 시 내 덱에 있는 유닛들에게<br>이 카드의 능력치를 부여한 뒤,<br>공격력이 5 이상인 유닛을<br>하나 뽑습니다.",
-    "descriptionRaw": "소환 시 내 덱에 있는 유닛들에게이 카드의 능력치를 부여한 뒤,공격력이 5 이상인 유닛을하나 뽑습니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "아바로사 부족에서는 주로 경험이 많은 어른들이 설화 지킴이를 맡습니다. 뛰어난 이야기꾼인 그들은 부족민들을 보호하고, 이야기와 노래를 통해 사냥과 전투의 전통을 이어 가죠. ",
-    "artistName": "Envar Studio",
-    "name": "설화 지킴이 레브나",
-    "cardCode": "06FR028",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "04FR001"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR030-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 2,
-    "cost": 2,
-    "health": 2,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 하나를 소환하거나<br>모든 <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 카드를<br>1라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>시킵니다.",
-    "descriptionRaw": "사용: 얼음 노예 하나를 소환하거나모든 얼음 노예 카드를1라운드만큼 진행시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "그 생명체는 하늘을 날며 기이하게 울부짖었습니다.<br>휘파람과 비슷한 그 소리는 귀에 겨우 들릴 정도로 희미했지만, 협곡의 돌벽을 흔들었습니다.<br>정찰병들은 마치 뼈가 진동하는 느낌을 받았죠.<br>그때 정찰병들의 눈앞에서 얼음이 갈라지더니<br>빠르게 어긋나기 시작했습니다.",
-    "artistName": "Kudos Productions",
-    "name": "노예의 징조",
-    "cardCode": "06FR030",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "04FR001"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR030T2-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 2,
-    "cost": 2,
-    "health": 2,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 하나를 소환합니다.",
-    "descriptionRaw": "사용: 얼음 노예 하나를 소환합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "동이 트면서 얼음이 녹자\n얼음 마녀의 하수인들이 깨어납니다.",
-    "artistName": "Kudos Productions",
-    "name": "노예의 징조",
-    "cardCode": "06FR030T2",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "04FR001"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR030T1-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 2,
-    "cost": 2,
-    "health": 2,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 모든 <link=card.summon><style=AssociatedCard>얼음 노예</style></link> 카드를<br>1라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>시킵니다.",
-    "descriptionRaw": "사용: 모든 얼음 노예 카드를1라운드만큼 진행시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "동이 트면서 얼음이 녹자\n얼음 마녀의 하수인들이 깨어납니다.",
-    "artistName": "Kudos Productions",
-    "name": "노예의 징조",
-    "cardCode": "06FR030T1",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "없음",
-    "rarityRef": "None",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": false,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06FR037-full.png"
-      }
-    ],
-    "regions": [
-      "프렐요드"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
-    "attack": 0,
-    "cost": 1,
-    "health": 0,
-    "description": "적 하나에게 \"다음 <link=vocab.RoundStart><style=Vocab>라운드 시작</style></link> 시 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸립니다.\" 효과를 부여합니다.",
-    "descriptionRaw": "적 하나에게 \"다음 라운드 시작 시 동상에 걸립니다.\" 효과를 부여합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "얼음이 아무리 두꺼워 보여도<br>얼음을 건너기 전에 확인해야 합니다.",
-    "artistName": "Kudos Productions",
-    "name": "갈라지는 얼음",
-    "cardCode": "06FR037",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
       "06SI012T2",
       "06SI012T1",
       "06SI012T6"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012-full.png"
       }
     ],
     "regions": [
@@ -6778,8 +7071,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T6-full.png"
       }
     ],
     "regions": [
@@ -6822,8 +7115,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T5-full.png"
       }
     ],
     "regions": [
@@ -6867,8 +7160,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T2-full.png"
       }
     ],
     "regions": [
@@ -6880,8 +7173,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "아군 하나를 처치한 후 해당 유닛의 공격력만큼 적 유닛 하나에게 피해를 줍니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>그웬</style></link> 하나를 생성합니다.",
-    "descriptionRaw": "아군 하나를 처치한 후 해당 유닛의 공격력만큼 적 유닛 하나에게 피해를 줍니다.\r\n내 덱에 그웬 하나를 생성합니다.",
+    "description": "아군 하나를 처치한 후 해당 유닛의 공격력만큼 적 유닛 하나에게 피해를 줍니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>그웬</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "아군 하나를 처치한 후 해당 유닛의 공격력만큼 적 유닛 하나에게 피해를 줍니다.\r\n내 덱에 그웬 1장을 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"바늘 출동!\"\n- 그웬",
@@ -6913,8 +7206,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI012T1-full.png"
       }
     ],
     "regions": [
@@ -6957,8 +7250,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI020-full.png"
       }
     ],
     "regions": [
@@ -6999,8 +7292,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI013-full.png"
       }
     ],
     "regions": [
@@ -7045,8 +7338,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI037-full.png"
       }
     ],
     "regions": [
@@ -7087,8 +7380,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI040-full.png"
       }
     ],
     "regions": [
@@ -7129,8 +7422,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI009-full.png"
       }
     ],
     "regions": [
@@ -7173,8 +7466,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI027-full.png"
       }
     ],
     "regions": [
@@ -7215,8 +7508,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI018-full.png"
       }
     ],
     "regions": [
@@ -7255,8 +7548,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI015-full.png"
       }
     ],
     "regions": [
@@ -7297,8 +7590,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI030-full.png"
       }
     ],
     "regions": [
@@ -7341,8 +7634,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI026-full.png"
       }
     ],
     "regions": [
@@ -7385,8 +7678,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI033-full.png"
       }
     ],
     "regions": [
@@ -7429,8 +7722,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI016-full.png"
       }
     ],
     "regions": [
@@ -7471,8 +7764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI028-full.png"
       }
     ],
     "regions": [
@@ -7515,8 +7808,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI043-full.png"
       }
     ],
     "regions": [
@@ -7557,8 +7850,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI022-full.png"
       }
     ],
     "regions": [
@@ -7601,8 +7894,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06SI019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_14_0/set6/ko_kr/img/cards/06SI019-full.png"
       }
     ],
     "regions": [
@@ -7631,299 +7924,6 @@
     "subtypes": [],
     "supertype": "",
     "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ032-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 7,
-    "health": 0,
-    "description": "비용이 2인 새 주문 2장 중 하나를 골라 손에 생성하고 이 라운드에 비용을 0으로 감소시킵니다. 그리고 두 번 더 반복합니다.",
-    "descriptionRaw": "비용이 2인 새 주문 2장 중 하나를 골라 손에 생성하고 이 라운드에 비용을 0으로 감소시킵니다. 그리고 두 번 더 반복합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "자운 최초의 노래돌림기는 놀라울 정도로 안정적인 성능을 뽐냈습니다. 다만 음량을 조절할 수 없다는 게<br>유일한 단점이었죠.",
-    "artistName": "Kudos Productions",
-    "name": "터질 듯한 노래돌림기",
-    "cardCode": "06PZ032",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ042-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 4,
-    "cost": 4,
-    "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 손에 든 카드 1장을 선택합니다.<br>그 카드와 똑같은 복사본 4장을 내 덱에 생성하고 비용을 1 감소시킵니다.",
-    "descriptionRaw": "사용: 손에 든 카드 1장을 선택합니다.그 카드와 똑같은 복사본 4장을 내 덱에 생성하고 비용을 1 감소시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"흠, 내가 오늘 일에 대해 말할 수 있는 내용은<br>더 좋을 수 있었다는 거야. 여기까지 해야지.<br>미래의 나... 넌 우리가 뭘 했는지 알고 있잖아.\"\n- 케이의 일기",
-    "artistName": "Kudos Productions",
-    "name": "사악한 불완전주의자",
-    "cardCode": "06PZ042",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "서사급",
-    "rarityRef": "Epic",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ025-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 4,
-    "cost": 5,
-    "health": 4,
-    "description": "소환 시 무작위 껍데기 하나를 소환합니다.\r\n비용이 1인 아군을 소환하면 해당 아군에게 무작위 키워드를 부여합니다.",
-    "descriptionRaw": "소환 시 무작위 껍데기 하나를 소환합니다.\r\n비용이 1인 아군을 소환하면 해당 아군에게 무작위 키워드를 부여합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"중간층에서 집으로 돌아오는 길에 불쌍한 방랑자가<br>작은 골목길에서 흐느끼는 모습을 다시 보게 되었다.<br>그녀의 모습에서 뚜렷하게 보이는 좌절과 수많은 이탈이<br>나의 마음을 날카롭게 후벼팠다. 그러니 내일 그 길을<br>다시 걷게 된다면 내가 할 수 있는 모든 방법을 동원해<br>그녀를 도울 것이다.\"\n- 레이디 셈페스쿠의 일기장에서 발췌한 쪽지",
-    "artistName": "Kudos Productions",
-    "name": "고독",
-    "cardCode": "06PZ025",
-    "keywords": [],
-    "keywordRefs": [],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "유닛",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "03PZ011",
-      "01PZ005",
-      "01PZ049"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ043-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 1,
-    "health": 0,
-    "description": "손에 <link=card.create1><style=AssociatedCard>여진</style></link>, <link=card.create2><style=AssociatedCard>마법공학 형태변환기</style></link>, <link=card.create3><style=AssociatedCard>진보의 날!</style></link> 중 1장을 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성합니다.",
-    "descriptionRaw": "손에 여진, 마법공학 형태변환기, 진보의 날! 중 1장을 일회용 상태로 생성합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "''세상 어느 곳에서도 이보다 더 좋은 물건을 찾지 못할 겁니다, 선생님. 제 딸아이가 아주 세세한 부분까지 <nobr>심혈을 기울여 만들었죠.''</nobr>\n- 코린 레벡",
-    "artistName": "Kudos Productions",
-    "name": "필트오버 텔스톤",
-    "cardCode": "06PZ043",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "01PZ030",
-      "01PZ044"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ027-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 2,
-    "health": 0,
-    "description": "손에 <link=card.create1><style=AssociatedCard>수상한 인물</style></link>, <link=card.create2><style=AssociatedCard>화공 펑크족</style></link> 중 1장을 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태로 생성하고 비용을 1 감소시킵니다.",
-    "descriptionRaw": "손에 수상한 인물, 화공 펑크족 중 1장을 일회용 상태로 생성하고 비용을 1 감소시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "자운 최고의 밤 문화는<br>오직 초대받은 사람만 즐길 수 있습니다.<br>밴드 소속이 아니라면 영향력을 키우거나,<br>바닥에 떨어진 티켓을 주워야 하죠.",
-    "artistName": "Kudos Productions",
-    "name": "은밀한 초대",
-    "cardCode": "06PZ027",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ038-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 3,
-    "health": 0,
-    "description": "아군 하나에게 <link=keyword.Elusive><sprite name=Elusive><style=Keyword>포착 불가</style></link> 및 \"<link=vocab.NexusStrike><style=Vocab>넥서스 타격</style></link>: 카드 1장을 뽑습니다.\" 효과를 부여합니다.",
-    "descriptionRaw": "아군 하나에게 포착 불가 및 \"넥서스 타격: 카드 1장을 뽑습니다.\" 효과를 부여합니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "\"내가 오늘 뭘 찾았는지 다들 믿지 못할걸!\"\n- 지하동굴 폐품팔이",
-    "artistName": "Kudos Productions",
-    "name": "주워 온 위장망토",
-    "cardCode": "06PZ038",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "일반급",
-    "rarityRef": "Common",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
-    "collectible": true,
-    "set": "Set6"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_13_0/set6/ko_kr/img/cards/06PZ039-full.png"
-      }
-    ],
-    "regions": [
-      "필트오버 & 자운"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
-    "attack": 0,
-    "cost": 2,
-    "health": 0,
-    "description": "사용하려면 카드를 최대 2장까지 버려야 합니다. 내 덱과 지역이 같고 비용이 1씩 높은 추종자들을 버린 카드 수만큼 생성하고,<br>비용을 1씩 감소시킵니다.",
-    "descriptionRaw": "사용하려면 카드를 최대 2장까지 버려야 합니다. 내 덱과 지역이 같고 비용이 1씩 높은 추종자들을 버린 카드 수만큼 생성하고,비용을 1씩 감소시킵니다.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "자운 깊은 곳에서 현지인들은 수집한 고물과 쓰레기를<br>작업 가능한 소재로 바꿔야 합니다.<br>수십 년 동안 계속된 작업 이후<br>현지인들의 실력은 발전하게 되었습니다.",
-    "artistName": "Kudos Productions",
-    "name": "고물 인양",
-    "cardCode": "06PZ039",
-    "keywords": [
-      "즉발"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "즉발",
-    "spellSpeedRef": "Burst",
-    "rarity": "희귀급",
-    "rarityRef": "Rare",
-    "subtypes": [],
-    "supertype": "",
-    "type": "주문",
     "collectible": true,
     "set": "Set6"
   }
